@@ -1,0 +1,91 @@
+/*
+	Import Settings
+*/
+/*
+	Setting
+*/
+/*
+	Colors
+*/
+/*
+	Fonts
+*/
+/*
+	Fonts Size
+*/
+/*
+	Icons Size
+*/
+/*
+	Letter-Spacing
+*/
+/*
+	Line Height
+*/
+/*
+	Forms
+*/
+/*
+	Params
+*/
+/**
+*	Alice - Resume/CV/vCard Template (HTML)
+*	Version: 1.0
+*	Author: kartovitskaya
+*	Author URL: http://themeforest.net/user/kartovitskaya
+**/
+/* TABLE OF CONTENTS
+	1. Avatar
+*/
+/*
+	1. Avatar
+*/
+.card-started .profile {
+  padding: 100px 50px 50px 50px;
+  width: 100%;
+  position: relative;
+  background: #ffffff;
+  text-align: center;
+  z-index: 10;
+  box-shadow: 10px 10px 15px 10px rgba(0, 0, 0, 0.03);
+}
+.card-started .profile .image {
+  margin: 110px 0 20px 0;
+  position: relative;
+  display: inline-block;
+  width: 140px;
+}
+.card-started .profile .image img {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 3px solid #ffe325;
+  border-radius: 100%;
+  -moz-border-radius: 100%;
+  -webkit-border-radius: 100%;
+  -khtml-border-radius: 100%;
+}
+.card-started .profile .title {
+  margin: 0 0 10px 0;
+}
+.card-started .profile .social a {
+  margin: 0 6px 10px;
+}
+@media (max-width: 1023px) {
+  .card-started {
+  margin-bottom: 70px;
+}
+  .card-started .profile .image {
+    margin: 200px 0 20px;
+  }
+}
+
+@media (max-width: 560px) {
+  .card-started {
+  margin-bottom: 170px;
+}
+  .card-started .profile .image {
+    margin: 120px 0 20px;
+  }
+}
